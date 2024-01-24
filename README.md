@@ -1,6 +1,6 @@
 <h2 >Olá, eu me chamo Fernando 👋</h2>
-<h4 >💻 Graduando em Análise e Desenvolvimento de Sistemas</h4>
-<h4 >♨️ Meu foco principal é no desenvolvimento back-end, especialmente em Java</h4> 
+<h3 >💻 Graduando em Análise e Desenvolvimento de Sistemas</h3>
+<h3 >♨️ Desenvolvedor back-end com foco em Java</h3> 
 
 - 🔭 Atualmente estou trabalhando no projeto [Lib Manager Pro](https://github.com/fernando-felicio/lib-manager-pro)
 
