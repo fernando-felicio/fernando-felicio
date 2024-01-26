@@ -2,7 +2,7 @@
 <h3 >💻 Graduando em Análise e Desenvolvimento de Sistemas</h3>
 <h3 >♨️ Desenvolvedor back-end com foco em Java</h3> 
 
-- 🔭 Atualmente estou trabalhando no projeto [Lib Manager Pro](https://github.com/fernando-felicio/lib-manager-pro)
+- 🔭 Atualmente estou trabalhando no projeto [E-Commerce Order Pro](https://github.com/fernando-felicio/ecommerce-order)
 
 - 🌱 Estou estudando **SpringBoot, APIRestful, MongoDB, JPA**
 
